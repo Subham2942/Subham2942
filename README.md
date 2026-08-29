@@ -4,10 +4,6 @@ I'm a software engineer with 2+ years of experience building production web appl
 
 I'm currently expanding my backend expertise by building systems with Java, Spring Boot, Flask, REST APIs, MySQL, Kafka, and Docker.
 
-## Currently working on
-
-An AI-assisted expense management platform built with Java 21, Spring Boot, Spring Security, Kafka, MySQL, Flask, LangChain, Kong, and Docker Compose. The project includes authentication, user and expense services, asynchronous communication, and transaction extraction.
-
 ## Technologies
 
 - **Languages:** TypeScript, JavaScript, Java, Python, SQL
