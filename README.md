@@ -1,58 +1,19 @@
-<h1 align="center" >Hi 👋, I am <b>Subham Das</b></h1>
+# Hi, I'm Subham Das 👋
 
-<br> </br>
+I'm a software engineer with 2+ years of experience building production web applications using React, Next.js, and TypeScript. At Convai, I worked on product features involving performance optimization, accessibility, API integrations, and conversational AI experiences.
 
-<p align="left">
-   I am a final year student from NIT Rourkela. I am looking to be a FullStack Developer. I am currently working on front end skills and learning backend by making projects along with sharpenig my DSA skills
-</p>
+I'm currently expanding my backend expertise by building systems with Java, Spring Boot, Flask, REST APIs, MySQL, Kafka, and Docker.
 
+## Currently working on
 
+An AI-assisted expense management platform built with Java 21, Spring Boot, Spring Security, Kafka, MySQL, Flask, LangChain, Kong, and Docker Compose. The project includes authentication, user and expense services, asynchronous communication, and transaction extraction.
 
+## Technologies
 
-- 👋 I am making projects using React.
-- 🌱 I’m currently learning Back-End Development. 
-- 👀 👯 I’m looking to collaborate with someone like you to create a project
-- 💬 Ask me about **React , Node**
-- ✉️ Get in touch: subham0464@gmail.com 
+- **Languages:** TypeScript, JavaScript, Java, Python, SQL
+- **Frontend:** React, Next.js, accessibility
+- **Backend:** Spring Boot, Flask, REST APIs, Spring Security, JPA/Hibernate
+- **Data and messaging:** MySQL, PostgreSQL, Apache Kafka
+- **Tools:** Docker, Kong, Git, CI/CD
 
-
-
-
-
-<!---
-Subham2942/Subham2942 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<br> </br>
-
-<h3 align="left"> Languages & Frameworks used: </h3>
-
-<p>
-    <img width="40" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/programming%20languages/c.svg" />
-  
-  <img width="40" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/programming%20languages/c%2B%2B.svg" />
-
-  <img width="40" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/programming%20languages/javascript.svg" />
-  <img width="40" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/programming%20languages/typescript.svg" />
-  
-  <img width="40" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/others/html.svg" />
-  <img width="40" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/others/css.svg" />
-  
-  <img width="40" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/others/json.svg" />
-  <img width="40" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/others/npm.svg" />
-  
-  <img width="40" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/frameworks/react.svg" />
-  <img width="40" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/frameworks/boostrap.svg" />
-  
-  <img width="40" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/text%20editors/vscode.svg" />
-  <img width="40" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/cloud/github.svg" bg-c/>
-  
-</p>
-
-
-
-
-
-![Subham's GitHub stats](https://github-readme-stats.vercel.app/api?username=Subham2942&show_icons=true&theme=dracula)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Subham2942&layout=compact)](https://github.com/Subham2942/github-readme-stats)
+I'm interested in full-stack and software-engineering opportunities where I can contribute to product development while continuing to deepen my backend experience.
